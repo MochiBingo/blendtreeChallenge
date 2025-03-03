@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 1faf9631349b14140a141f8331fa90dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe9ecec430918c40af7ca61f41140ac
+      internalID: 1988725017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 410.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c60e8c77e00944b8b5b108e1308d4f
+      internalID: 1018351607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 410.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d79c77e21cfb4fbc276336ab92299
+      internalID: -1382887561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 410.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ef5aaccc700d48a5d618cd6dc9a78
+      internalID: -905063487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11700501f67e7499ad9322aa5cc2ce
+      internalID: -1977571473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 274.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2326a7e43c93b245a0fd7336494fd2e
+      internalID: 1912510741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 274.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af8577935140c45bda9106bd1fea06
+      internalID: -691232348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 274.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c840319ff187a46a4624a449f1f374
+      internalID: -696488887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7608ae344aba41acdd86220edb855
+      internalID: -1987125903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 138.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2cf375ecf6614bbbfd44c6bcb447a
+      internalID: 1906329114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 138.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27f0a1b4924a8a4fb0d4940bd364664
+      internalID: 602045467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 138.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dde8d2b0e953f4bba5fa0addf30d08
+      internalID: -2142238322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7274ed917cb0458405fcfac77f66b
+      internalID: -1942772884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a06c25463e6144b07f014fff38332
+      internalID: -1219036871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e2036fe3dc5d540a69ceb5ee5e28d7
+      internalID: 317908762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterSpriteSheet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2.25
+        width: 114
+        height: 136.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc795fe971b7ad47b06803562289eff
+      internalID: 431928245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      characterSpriteSheet-removebg-preview_0: 1988725017
+      characterSpriteSheet-removebg-preview_1: 1018351607
+      characterSpriteSheet-removebg-preview_10: 602045467
+      characterSpriteSheet-removebg-preview_11: -2142238322
+      characterSpriteSheet-removebg-preview_12: -1942772884
+      characterSpriteSheet-removebg-preview_13: -1219036871
+      characterSpriteSheet-removebg-preview_14: 317908762
+      characterSpriteSheet-removebg-preview_15: 431928245
+      characterSpriteSheet-removebg-preview_2: -1382887561
+      characterSpriteSheet-removebg-preview_3: -905063487
+      characterSpriteSheet-removebg-preview_4: -1977571473
+      characterSpriteSheet-removebg-preview_5: 1912510741
+      characterSpriteSheet-removebg-preview_6: -691232348
+      characterSpriteSheet-removebg-preview_7: -696488887
+      characterSpriteSheet-removebg-preview_8: -1987125903
+      characterSpriteSheet-removebg-preview_9: 1906329114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
