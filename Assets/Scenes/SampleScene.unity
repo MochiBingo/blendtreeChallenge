@@ -1015,6 +1015,7 @@ MonoBehaviour:
   gameManager: {fileID: 1970604665}
   player: {fileID: 1359636362}
   moveSpeed: 20
+  animator: {fileID: 2087380661}
 --- !u!1 &355671083
 GameObject:
   m_ObjectHideFlags: 0

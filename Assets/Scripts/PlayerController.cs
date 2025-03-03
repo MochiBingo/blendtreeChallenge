@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -8,6 +9,8 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D player;
     public float moveSpeed = 30f;
     private Vector2 moveVector = Vector2.zero;
+    public Animator animator;
+    private Vector2 oldVector;
 
     public void Start()
     {
@@ -16,6 +19,14 @@ public class PlayerController : MonoBehaviour
     public void Update()
     {
         moveChar(moveVector);
+        if (moveVector != oldVector)
+        {
+            animator.SetBool("moving", true);
+        }
+        else
+        {
+            animator.SetBool("moving", false);
+        }
     }
     public void moveChar(Vector2 MoveVector)
     {
@@ -23,6 +34,7 @@ public class PlayerController : MonoBehaviour
     }
     private void updateMoveVector(Vector2 vector)
     {
+        
         moveVector = vector;
     }
 }
